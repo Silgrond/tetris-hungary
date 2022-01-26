@@ -1,0 +1,10 @@
+/*
+  Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+  X-Content-Type-Options: nosniff
+  X-XSS-Protection: 1; mode=block
+  Content-Security-Policy:  default-src 'none'; font-src 'self'; frame-src https://discord.com https://embed.indavideo.hu https://platform.twitter.com https://player.vimeo.com https://www.youtube.com; img-src 'self' https://platform.twitter.com https://syndication.twitter.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://cdn.syndication.twimg.com/timeline/profile https://platform.twitter.com/js/moment~timeline.4391e0bf4053fbaa2a022e3fad2a1e1a.js https://platform.twitter.com/js/timeline.34cf38a85ac899f1d6a0438a1659decc.js https://platform.twitter.com/widgets.js https://player.vimeo.com/api/player.js; style-src 'self' 'unsafe-inline'
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin
+  Feature-Policy: geolocation 'self'
+  Cache-Control: public, max-age=31536000
+  Access-Control-Allow-Origin: *

@@ -1,0 +1,30 @@
+<div class="container">
+  <div class="row justify-content-center text-center">
+    <div class="col-lg-5">
+      <h2 class="h4"><a href="docs/kezdoknek/ajatekrol/">Története</a></h2>
+      <p>Ismerd meg a játék történetét!</p>
+    </div>
+    <div class="col-lg-5">
+      <h2 class="h4">Játékok</h2>
+      <p>A játék különböző változatai.</p>
+    </div>
+    <div class="col-lg-5">
+      <h2 class="h4">Leírások</h2>
+      <p>Megnyitások, technikák, játékmechanikák.</p>
+    </div>
+  </div>
+  <div class="row justify-content-center text-center">
+    <div class="col-lg-5">
+      <h2 class="h4">Múzeum</h2>
+      <p>Archív anyagok a magyar internetről, érdekességek.</p>
+    </div>
+    <div class="col-lg-5">
+      <h2 class="h4">Csatlakozz közösségünkhöz!</h2>
+      <p>Elérhetsz minket <a href="https://discord.gg/97Vcf3Xkpz">Discordon</a>, kövess minket <a href="https://twitter.com/TetrisHungary">Twitteren</a>, vagy vedd fel velünk a <a href="mail@tetrishungary.hu">kapcsolatot!</a></p>
+    </div>
+    <div class="col-lg-5">
+      <h2 class="h4">Versenyek Linkek</h2>
+      <p>Switch to a low-light UI with the click of a button. Change colors with variables to match your branding.</p>
+    </div>
+  </div>
+</div>
